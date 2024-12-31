@@ -1,0 +1,3316 @@
+[27.12.2024 16:16:37] [WARNING] Başarısız giriş denemesi - Yanlış şifre
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e",
+  "email": "test@example.com"
+}
+
+[27.12.2024 16:16:48] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e",
+  "email": "test@example.com",
+  "role": "user"
+}
+
+[27.12.2024 16:16:48] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:16:48] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:17:05] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:17:05] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:17:05] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e",
+  "fortuneCount": 5
+}
+
+[27.12.2024 16:17:05] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e",
+  "fortuneCount": 5
+}
+
+[27.12.2024 16:17:09] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:17:09] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:17:12] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:17:12] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:22:13] [WARNING] Başarısız giriş denemesi - Kullanıcı bulunamadı
+Detaylar: {
+  "email": "test@gmail.com"
+}
+
+[27.12.2024 16:22:38] [WARNING] Başarısız giriş denemesi - Yanlış şifre
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com"
+}
+
+[27.12.2024 16:27:13] [WARNING] Başarısız giriş denemesi - Yanlış şifre
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com"
+}
+
+[27.12.2024 16:27:51] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com",
+  "role": "admin"
+}
+
+[27.12.2024 16:27:51] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:27:51] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:27:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:27:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:27:54] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:27:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:27:54] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:27:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:28:06] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:28:06] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:28:33] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com",
+  "role": "admin"
+}
+
+[27.12.2024 16:28:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:28:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:29:21] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:31:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:31:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:31:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:31:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:31:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:33:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:34:33] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:34:33] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:34:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:34:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:34:39] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:34:39] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:35:41] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:35:41] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:35:41] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:35:41] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:36:07] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:36:07] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:36:07] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:36:07] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:36:07] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:36:07] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:36:07] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:36:07] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:37:23] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:37:23] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:38:37] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:38:37] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:16] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com",
+  "role": "admin"
+}
+
+[27.12.2024 16:39:16] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:16] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:16] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:39:16] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:39:24] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:39:24] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:39:24] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:39:24] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:39:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:47] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:39:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:47] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:39:47] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:39:48] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:48] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:39:48] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 1
+}
+
+[27.12.2024 16:39:48] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 1
+}
+
+[27.12.2024 16:40:09] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 2
+}
+
+[27.12.2024 16:40:09] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:40:35] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:40:35] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:40:35] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:40:35] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:40:43] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e",
+  "email": "test@example.com",
+  "role": "user"
+}
+
+[27.12.2024 16:40:43] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:43] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:44] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:44] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:44] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e",
+  "fortuneCount": 5
+}
+
+[27.12.2024 16:40:44] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e",
+  "fortuneCount": 5
+}
+
+[27.12.2024 16:40:48] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:48] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:51] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:51] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:40:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676bf63e9d3aea952f75a28e"
+}
+
+[27.12.2024 16:55:36] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com",
+  "role": "admin"
+}
+
+[27.12.2024 16:55:36] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:55:36] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:55:36] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:55:36] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:56:45] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:56:45] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:25] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:57:25] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:57:25] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:25] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:29] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:29] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:29] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:29] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:31] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:31] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:31] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:31] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:31] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:31] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:31] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:31] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:33] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:57:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:33] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+
+[27.12.2024 16:57:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:36] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:36] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:57:36] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:57:36] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:59:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:59:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:59:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:59:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:59:56] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:59:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+
+[27.12.2024 16:59:56] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 16:59:56] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "adminUsers": 2
+  }
+}
+
+[27.12.2024 17:02:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:02:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:02:57] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:02:57] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:02:57] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:02:57] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:02:57] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:02:57] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:13] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com",
+  "role": "admin"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:13] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:13] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:13] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:13] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:24] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:24] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:24] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:24] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:30] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:30] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:30] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:30] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:45] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:45] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:47] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:47] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:47] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:47] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:52] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:52] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:52] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:52] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:03:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:05:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:05:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:05:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:05:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:05:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:05:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:05:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:05:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:07:22] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:07:22] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:08:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:08:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:08:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:08:56] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:08:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:08:56] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:08:56] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:08:56] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:09:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:09:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:01] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:01] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:01] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:01] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:01] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:01] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:01] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:01] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:06] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:06] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:06] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 2
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:06] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 2
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:24] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 3
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:24] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:35] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:35] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:35] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:35] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:35] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:35] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:35] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:13:35] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:16:58] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:16:58] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:16:58] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 3
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:16:58] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 3
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:17] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:17] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 4
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:24] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:24] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:24] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:24] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:27] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:27] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:27] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:27] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:27] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:27] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:27] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:17:27] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:19:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:19:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:19:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:19:55] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:19:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:19:55] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:19:55] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:19:55] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:21] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:21] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:21] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 4
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:21] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 4
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:40] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 5
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:40] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:44] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:44] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:44] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:44] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:52] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:52] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:52] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:52] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:52] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:52] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:52] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:20:52] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:03] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:03] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:03] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:03] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:03] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:04] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:04] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:04] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:05] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:05] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:05] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 5
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:05] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 5
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:18] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 6
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:18] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:31] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:31] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:31] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:31] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:21:33] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:41] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:41] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:41] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:41] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:41] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:41] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:41] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:42] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:58] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:58] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:58] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:58] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:58] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:58] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:58] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:23:58] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:29] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:29] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:29] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:29] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:29] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:29] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:29] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:29] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:32] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:32] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:32] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:32] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:32] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:32] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:37] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:37] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:46] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:46] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:46] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:46] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:46] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:46] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:54] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:54] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:58] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:58] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:58] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:24:59] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:10] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:11] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:11] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:11] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:26] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:26] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:26] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:26] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:26] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:26] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:26] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:25:26] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:26:33] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:26:59] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:26:59] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:26:59] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:26:59] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:26:59] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:27:18] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:27:18] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:27:18] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:27:18] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:27:18] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:28:32] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:28:49] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:28:49] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 6
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:28:49] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:28:49] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 6
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:29:23] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:29:23] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:29:23] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:29:23] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:29:23] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 6
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:29:23] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:29:23] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 6
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:29:23] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 6
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:30:06] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:30:06] [INFO] Fal geçmişi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "fortuneCount": 6
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:32:46] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:32:46] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:32:49] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:32:49] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:32:49] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:32:49] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:32:49] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:33:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:33:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:33:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:33:10] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:33:11] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:33:11] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:33:11] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[27.12.2024 17:33:11] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:28] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com",
+  "role": "admin"
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:28] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:28] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:28] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:28] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:44] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:44] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:44] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:57:44] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:59:39] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:59:39] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:59:39] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:59:39] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[31.12.2024 13:59:39] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:00:35] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:00:35] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:00:35] [ADMIN] Tüm kullanıcılar listelendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "userCount": 9
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:00:35] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:00:35] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:21:49] [INFO] Server 3002 portunda çalışıyor
+Detaylar: {}
+--------------------------------------------------------------------------------
+[31.12.2024 14:21:49] [INFO] MongoDB bağlantısı başarılı
+Detaylar: {}
+--------------------------------------------------------------------------------
+[31.12.2024 14:26:26] [INFO] Server 3002 portunda çalışıyor
+Detaylar: {}
+--------------------------------------------------------------------------------
+[31.12.2024 14:26:26] [INFO] MongoDB bağlantısı başarılı
+Detaylar: {}
+--------------------------------------------------------------------------------
+[31.12.2024 14:29:31] [INFO] Server 3002 portunda çalışıyor
+Detaylar: {}
+--------------------------------------------------------------------------------
+[31.12.2024 14:31:00] [INFO] Server 3002 portunda çalışıyor
+Detaylar: {}
+--------------------------------------------------------------------------------
+[31.12.2024 14:31:00] [INFO] MongoDB bağlantısı başarılı
+Detaylar: {}
+--------------------------------------------------------------------------------
+[31.12.2024 14:33:46] [INFO] Başarılı giriş
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d",
+  "email": "admin@example.com",
+  "role": "admin"
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:33:46] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:33:46] [INFO] Kullanıcı bilgisi başarıyla alındı
+Detaylar: {
+  "userId": "676e99252c798e5a2d19640d"
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:33:46] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
+[31.12.2024 14:33:47] [ADMIN] Admin istatistikleri görüntülendi
+Detaylar: {
+  "adminId": "676e99252c798e5a2d19640d",
+  "stats": {
+    "totalUsers": 9,
+    "activeUsers": 3,
+    "blockedUsers": 0,
+    "premiumUsers": 0,
+    "totalReadings": 0,
+    "dailyReadings": 0,
+    "weeklyReadings": 0,
+    "averageDailyReadings": 0
+  }
+}
+--------------------------------------------------------------------------------
