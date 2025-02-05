@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import cors from 'cors';
 import authRoutes from './api/auth.js';
 import adminRoutes from './api/admin.js';
+import tarotRoutes from './api/tarot.js';
 import authMiddleware from './middleware/auth.js';
 
 dotenv.config();
@@ -17,6 +18,7 @@ app.use(express.json());
 // Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/admin', adminRoutes);
+app.use('/api/tarot', tarotRoutes);
 
 // MongoDB bağlantısı
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/fashion_tryon')

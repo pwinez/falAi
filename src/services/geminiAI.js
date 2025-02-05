@@ -1,8 +1,9 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
+import { logError } from '../utils/logger.js';
 
 class GeminiAIService {
   constructor() {
-    this.apiKey = import.meta.env?.VITE_GEMINI_API_KEY;
+    this.apiKey = import.meta.env.VITE_GEMINI_API_KEY;
     if (!this.apiKey) {
       throw new Error('Gemini API anahtarı bulunamadı!');
     }
@@ -75,5 +76,45 @@ Bu tek yönlü bir yorum sürecidir. Fincanı detaylıca analiz et ve tüm görd
     }
   }
 }
+
+// Kahve falı yorumlama
+export const generateCoffeeReading = async (imageUrl) => {
+  try {
+    const model = this.genAI.getGenerativeModel({ model: 'gemini-pro-vision' });
+    
+    const prompt = `Sen deneyimli bir falcısın. Bu kahve fincanı fotoğrafını detaylı bir şekilde incele ve içindeki sembolleri yorumla. 
+    Aşk, kariyer, sağlık ve maddi konular hakkında öngörülerde bulun. Yorumunu samimi ve sohbet eder gibi yap. 
+    Olumlu ve umut verici mesajlar kullan ama gerçekçi ol. Cevabını Türkçe olarak ver.`;
+
+    const result = await model.generateContent([prompt, imageUrl]);
+    const response = await result.response;
+    return response.text();
+  } catch (error) {
+    logError('Kahve falı AI hatası', { error: error.message });
+    throw new Error('Fal yorumu oluşturulamadı');
+  }
+};
+
+// Tarot falı yorumlama
+export const generateTarotReading = async (cards) => {
+  try {
+    const model = this.genAI.getGenerativeModel({ model: 'gemini-pro' });
+    
+    const prompt = `Sen deneyimli bir tarot falcısısın. Seçilen üç tarot kartını yorumlayacaksın: ${cards.join(', ')}.
+    Her kartın anlamını ve kartların birbiriyle olan ilişkisini açıkla.
+    Geçmiş, şimdi ve gelecek bağlamında bir yorum yap.
+    Aşk, kariyer, sağlık ve maddi konular hakkında öngörülerde bulun.
+    Yorumunu samimi ve sohbet eder gibi yap.
+    Olumlu ve umut verici mesajlar kullan ama gerçekçi ol.
+    Cevabını Türkçe olarak ver ve paragraflar halinde düzenle.`;
+
+    const result = await model.generateContent(prompt);
+    const response = await result.response;
+    return response.text();
+  } catch (error) {
+    logError('Tarot falı AI hatası', { error: error.message });
+    throw new Error('Fal yorumu oluşturulamadı');
+  }
+};
 
 export default GeminiAIService; 
