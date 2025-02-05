@@ -16,7 +16,8 @@ import {
   faChartBar,
   faCalendarDay,
   faUserCheck,
-  faStar
+  faStar,
+  faGem
 } from '@fortawesome/free-solid-svg-icons';
 import { useAuth } from '../../contexts/AuthContext';
 import './Dashboard.css';
@@ -170,8 +171,19 @@ const Dashboard = () => {
             <FontAwesomeIcon icon={faCoffee} />
           </div>
           <div className="action-content">
-            <h3>Yeni Fal Baktır</h3>
+            <h3>Kahve Falı</h3>
             <p>Kahve fincanınızın fotoğrafını yükleyin ve AI destekli falınızı öğrenin</p>
+          </div>
+          <FontAwesomeIcon icon={faArrowRight} className="arrow-icon" />
+        </Link>
+
+        <Link to="/tarot" className="action-card">
+          <div className="action-icon">
+            <FontAwesomeIcon icon={faGem} />
+          </div>
+          <div className="action-content">
+            <h3>Tarot Falı</h3>
+            <p>Tarot kartlarınızı seçin ve geleceğinizi keşfedin</p>
           </div>
           <FontAwesomeIcon icon={faArrowRight} className="arrow-icon" />
         </Link>

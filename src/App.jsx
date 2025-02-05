@@ -8,6 +8,7 @@ import AdminDashboard from './components/admin/AdminDashboard';
 import ProfileSettings from './components/profile/ProfileSettings';
 import LandingPage from './components/landing/LandingPage';
 import FortuneTelling from './components/fortune/FortuneTelling';
+import TarotPage from './components/tarot/TarotPage';
 import PrivateRoute from './components/auth/PrivateRoute';
 import AdminRoute from './components/auth/AdminRoute';
 import { AuthProvider } from './contexts/AuthContext';
@@ -43,6 +44,11 @@ const App = () => {
                 <Route path="/fortune" element={
                   <PrivateRoute>
                     <FortuneTelling />
+                  </PrivateRoute>
+                } />
+                <Route path="/tarot" element={
+                  <PrivateRoute>
+                    <TarotPage />
                   </PrivateRoute>
                 } />
 
